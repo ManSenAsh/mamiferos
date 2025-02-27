@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mamiferos", "mamiferos\mamiferos.csproj", "{75F37036-42ED-419A-94F0-2CB5E9702EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75F37036-42ED-419A-94F0-2CB5E9702EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F37036-42ED-419A-94F0-2CB5E9702EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F37036-42ED-419A-94F0-2CB5E9702EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F37036-42ED-419A-94F0-2CB5E9702EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FB67601-A35C-4F47-A570-3030854B8B6E}
+	EndGlobalSection
+EndGlobal
